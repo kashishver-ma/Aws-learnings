@@ -86,8 +86,6 @@ bash
 
 http://my-static-site-kashish.s3-website-<region>.amazonaws.com/doesnotexist
 
-![alt text](image.png)
-
 This should display your error.html page.
 
 ###This is your high level architecture for the same :

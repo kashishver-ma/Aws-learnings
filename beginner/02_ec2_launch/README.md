@@ -79,11 +79,11 @@ Source: 0.0.0.0/0 (for testing) or your IP
 
 ###Some common cli commands:
 
-aws ec2 describe-instances
-aws ec2 start-instances --instance-ids i-12345678
-aws ec2 start-instances --instance-ids i-1234567890abcdef0 --region ap-south-1
-aws ec2 stop-instances --instance-ids i-1234567890abcdef0 --region ap-south-1
-aws ec2 describe-key-pairs --region ap-south-1
+#aws ec2 describe-instances
+#aws ec2 start-instances --instance-ids i-12345678
+#aws ec2 start-instances --instance-ids i-1234567890abcdef0 --region ap-south-1
+#aws ec2 stop-instances --instance-ids i-1234567890abcdef0 --region ap-south-1
+#aws ec2 describe-key-pairs --region ap-south-1
 
 🔐 1. SSH into EC2 Instance
 bash

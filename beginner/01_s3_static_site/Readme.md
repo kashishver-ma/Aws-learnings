@@ -86,7 +86,7 @@ bash
 
 http://my-static-site-kashish.s3-website-<region>.amazonaws.com/doesnotexist
 
-This should display your error.html page.
+sThis should display your error.html page.
 
 ###This is your high level architecture for the same :
 

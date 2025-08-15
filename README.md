@@ -1,4 +1,5 @@
 # aws-learnings
+# SHORT - projects for practice of AWS services 
 Its a documentation where i have piled up all my learnings in the journey of AWS from beginner to advance level.
 
 # It consist of 6 main short Projects to understand some core Services provided by AWS.

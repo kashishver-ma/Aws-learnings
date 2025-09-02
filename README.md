@@ -8,9 +8,14 @@ Its a documentation where i have piled up all my learnings in the journey of AWS
 
  # This repo consist of Task and its solution along with possible Errors and their solutions.
 
- ## Beginner [https://github.com/kashishver-ma/aws-learnings/tree/main/beginner]
- ## Intermediate [https://github.com/kashishver-ma/aws-learnings/tree/main/intermediate]
- ## Advanced [https://github.com/kashishver-ma/aws-learnings/tree/main/advance]
+ ## [Beginner](https://github.com/kashishver-ma/aws-learnings/tree/main/beginner)
+ ## [Intermediate](https://github.com/kashishver-ma/aws-learnings/tree/main/intermediate)
+ ## [Advanced ](https://github.com/kashishver-ma/aws-learnings/tree/main/advance)
+
+ # Best practices to Design Solution Architecture ?? 
+ [ AWS Hosting arch Repo ](https://github.com/kashishver-ma/aws-learnings/tree/main/aws-arch)
+ 
+ 
  
  
 

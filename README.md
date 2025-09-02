@@ -13,7 +13,7 @@ Its a documentation where i have piled up all my learnings in the journey of AWS
  ## [Advanced ](https://github.com/kashishver-ma/aws-learnings/tree/main/advance)
 
  # Best practices to Design Solution Architecture ?? 
- [ AWS Hosting arch Repo ](https://github.com/kashishver-ma/aws-learnings/tree/main/aws-arch)
+ [ AWS Hosting arch Repo ](https://github.com/kashishver-ma/Aws-learnings/tree/main/practice-Arch_Design)
  
  
  
